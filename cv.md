@@ -8,7 +8,7 @@
 
 I spend all my free time to increase my skills in programming and english. I am a highly-motivated and interested novice specialist in Web development.
 
-# Skills and experience
+# Skills and Experience
 
 Basic knowledge of HTML, CSS, JavaScript.
 
