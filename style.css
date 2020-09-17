@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr{
+	border: 1px solid #eaecef;
+}
+
+.container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 25px;
+}
+
+.avatar {
+    width: 250px;
+}
+
+.footer {
+    text-align: center;
+}
